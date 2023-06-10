@@ -1,3 +1,4 @@
+USE DATABASE DEV_DB1;
 Use Schema DEV_DB1.DEV_SCHEMA1;
 
 create view cust_vw As (
