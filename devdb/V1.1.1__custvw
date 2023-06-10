@@ -1,8 +1,8 @@
 USE DATABASE DEV_DB1;
 Use Schema DEV_DB1.DEV_SCHEMA1;
 
-create Table cust_vw (
+create Table To_vw (
 M1 VARCHAR,
-M@ Varchar,
-N# Number
+M2 Varchar,
+N3 Number
 );
