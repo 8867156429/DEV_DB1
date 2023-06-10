@@ -1,5 +1,5 @@
 USE DATABASE DEV_DB1;
-Use Schema DEV_DB1.DEV_SCHEMA1;
+Use Schema DEV_SCHEMA1;
 
 create Table To_vw (
 M1 VARCHAR,
